@@ -31,9 +31,7 @@ Just a quick sample of how the menus would look like.
 * First build (03.21.2020) -  First initial version of RaspbianX. Not much going on here. Stable for use. Hardly any user programs at the moment, including Chromium and some basic tools for managing your Pi.
 
 # Known bugs/issues, and what I plan on doing
-* Minecraft Java Edition on the Pi: The sound engine is very laggy. Will be looking into soon.
-
-__UPDATE: Apparently, I forgot that PulseAudio is trash. Simply run these commands in the terminal to fix the audio problems:__
+* ~~Minecraft Java Edition on the Pi: The sound engine is very laggy. Will be looking into soon.~~ __UPDATE: Apparently, I forgot that PulseAudio is trash. Simply run these commands in the terminal to fix the audio problems:__
 > sudo apt remove pulseaudio && sudo apt autoremove && sudo reboot now
 
 * Lots of excess from the stock Raspbian Buster. I'm planning on rebuilding RaspbianX using Raspbian Buster Lite (just the OS), removing any old and unnecessary packages and programs.
