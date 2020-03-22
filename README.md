@@ -12,7 +12,10 @@ __I forgot that PulseAudio is trash. Simply run these commands in the terminal t
 
 The default username is "ubuntu", and the default password (including root) is also "ubuntu". This disk image will require a 32gb sd card, since it's backed up to a whopping 20ish GB in size. I've compressed it into a zip file for convenience.
 
-# Download RaspbianX
+# Download & install RaspbianX
+
+Click on any of these links below to download a copy of RaspbianX. RaspbianX can be flashed to any 32 GB SD card, with any disk writing software. (I reccomend Rufus)
+
 - __[Build 03.21.2020 (Latest)](https://drive.google.com/open?id=1kZAg7IHVlzSBW4GabW1Rl2GH0T_QI0By)__
 
 # Some photos
