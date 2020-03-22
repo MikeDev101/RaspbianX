@@ -1,16 +1,19 @@
 # RaspbianX
 This is a modified version of Raspbian Buster (Bare-minimal desktop version) for the Raspberry Pi using the Ubuntu MATE desktop environment with a fully custom theme and icon set. Made using a Raspberry Pi 4 2GB, so compatibility with older pis aren't guranteed.
 
-#RaspbianX is NOT reccomended for power users or new Raspberry Pi users.
+# RaspbianX is NOT reccomended for power users or new Raspberry Pi users.
 RaspbianX is designed for more advanced users or for those who want an aesthetically pleasing desktop experience. This is for looks, not for user friendliness. (Or do whatever the duck you want. I don't care, this comment has the same strength as those "click here if you are above 18 years old to get access to blah blah blah".)
+
+# Key notes
 
 This uses the Adapta GTK3 theme, and the Tela circle dark icon set. Both of these are not by me.
 
 The default username is "ubuntu", and the default password (including root) is also "ubuntu". This disk image will require a 32gb sd card, since it's backed up to a whopping 20ish GB in size. I've compressed it into a zip file for convenience.
 
+# Download RaspbianX
 To download the latest version of RaspbianX (Build 03.21.2020), click on [insert google drive link here soon, you potato.]
 
-# Photos of RaspbianX
+# Some photos
 (forgive me for using a camera, I don't have an HDMI capture device yet.)
 
 ![The login screen](https://cdn.glitch.com/2d2fd699-1471-4a63-af1a-c7b7677c8b13%2F20200322_130525.jpg?v=1584898281167)
