@@ -36,5 +36,5 @@ Just a quick sample of how the menus would look like.
 
 * Lots of excess from the stock Raspbian Buster. I'm planning on rebuilding RaspbianX using Raspbian Buster Lite (just the OS), removing any old and unnecessary packages and programs.
 * Checking for compatibility with older Pis. I don't know how well RaspbianX will perform on older Pis yet. 
-* Youtube pops and skips from time to time. Probably due to the bloat still present from the PIXEL desktop.
+* ~~Youtube pops and skips from time to time. Probably due to the bloat still present from the PIXEL desktop.~~ __Nope, just PulseAudio being trash.__
 * Some menus don't comply with the system theme. Trying to figure it out myself.
