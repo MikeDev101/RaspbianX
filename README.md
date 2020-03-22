@@ -32,6 +32,11 @@ Just a quick sample of how the menus would look like.
 
 # Known bugs/issues, and what I plan on doing
 * Minecraft Java Edition on the Pi: The sound engine is very laggy. Will be looking into soon.
+
+__UPDATE: apparently, I forgot that PulseAudio is trash. Simply perform:__
+> sudo apt remove pulseaudio && sudo apt autoremove && sudo reboot now 
+__to fix the audio problems.__
+
 * Lots of excess from the stock Raspbian Buster. I'm planning on rebuilding RaspbianX using Raspbian Buster Lite (just the OS), removing any old and unnecessary packages and programs.
 * Checking for compatibility with older Pis. I don't know how well RaspbianX will perform on older Pis yet. 
 * Youtube pops and skips from time to time. Probably due to the bloat still present from the PIXEL desktop.
