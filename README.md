@@ -10,15 +10,15 @@ To download the latest version of RaspbianX (Build 03.21.2020), click on [insert
 # Photos of RaspbianX
 (forgive me for using a camera, I don't have an HDMI capture device yet.)
 
-![The login screen](https://doc-0k-6s-docs.googleusercontent.com/docs/securesc/vr0oa0fb2jfrm6c1qfnj7ei3qsh9u42n/r5dhrgleogtg7nhfdlrqa22lq3rns2ma/1584897750000/03354756112496173493/03354756112496173493/1nKjlj-3JOOz2WyHgIARWRO_7MFYOARAF?e=download&authuser=0&nonce=fusu6gojhfq4c&user=03354756112496173493&hash=4oh0cqt2e2ddmd1b6vbk2e8oju7m0sv8)
+![The login screen](https://cdn.glitch.com/2d2fd699-1471-4a63-af1a-c7b7677c8b13%2F20200322_130525.jpg?v=1584898281167)
 
 Here is the login screen.
 
-![The desktop](https://doc-14-6s-docs.googleusercontent.com/docs/securesc/vr0oa0fb2jfrm6c1qfnj7ei3qsh9u42n/vpdmubgnrka1ntnd0297cdr4nh8p4p59/1584897750000/03354756112496173493/03354756112496173493/1dLtTTOTFt_pnwr9cbiKR3fqAqLk-zQsB?e=download&authuser=0)
+![The desktop](https://cdn.glitch.com/2d2fd699-1471-4a63-af1a-c7b7677c8b13%2F20200321_200008.jpg?v=1584898273716)
 
 Take a look at the desktop here. (this won't look exactly like the image I provided above, but it's pretty much the same.)
 
-![Sample menu](https://doc-0s-6s-docs.googleusercontent.com/docs/securesc/vr0oa0fb2jfrm6c1qfnj7ei3qsh9u42n/go76ggigfisj24lmtgfmuenaa0b0slrs/1584897825000/03354756112496173493/03354756112496173493/1Na445uvmI2S6LLUhNUwWDbXb3BxVczYY?e=download&authuser=0)
+![Sample menu](https://cdn.glitch.com/2d2fd699-1471-4a63-af1a-c7b7677c8b13%2F20200322_130614.jpg?v=1584898256214)
 
 Just a quick sample of how the menus would look like.
 
