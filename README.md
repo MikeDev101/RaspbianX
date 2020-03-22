@@ -5,7 +5,7 @@ This is a modified version of Raspbian Buster (Bare-minimal desktop version) for
 RaspbianX is designed for more advanced users or for those who want an aesthetically pleasing desktop experience. This is for looks, not for user friendliness. (Or do whatever the duck you want. I don't care, this comment has the same strength as those "click here if you are above 18 years old to get access to blah blah blah".)
 
 # Key notes
-Raspbian X was made using a Raspberry Pi 4 2GB, so compatibility with older Pis iren't guranteed. This uses the Adapta GTK3 theme, and the Tela circle dark icon set. Both of these are not by me.
+Raspbian X was made using a Raspberry Pi 4 2GB, so compatibility with older Pis isn't guranteed. This uses the Adapta GTK3 theme, and the Tela circle dark icon set. Both of these are not by me.
 
 __I forgot that PulseAudio is trash. Simply run these commands in the terminal to fix the audio problems:__
 > sudo apt remove pulseaudio && sudo apt autoremove && sudo reboot now
