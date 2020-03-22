@@ -14,7 +14,7 @@ To download the latest version of RaspbianX (Build 03.21.2020), click on [insert
 
 Here is the login screen.
 
-![The desktop](https://cdn.glitch.com/2d2fd699-1471-4a63-af1a-c7b7677c8b13%2F20200321_200008.jpg?v=1584898273716)
+![The desktop](https://cdn.glitch.com/2d2fd699-1471-4a63-af1a-c7b7677c8b13%2F20200322_130605.jpg?v=1584898390637)
 
 Take a look at the desktop here. (this won't look exactly like the image I provided above, but it's pretty much the same.)
 
