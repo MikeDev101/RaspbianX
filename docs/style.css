@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+.header {
+  background-image: url('https://i.imgur.com/g9bghpn.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  box-shadow: rgba(0,0,0,0.4) 0 10px 16px;
+}
+
+h1 {
+  color: white;
+  font-family: 'Baloo Da 2', sans-serif;
+  font-size: 3.4em;
+  font-weight: 400;
+}
+
+h2 {
+  line-height: 0.3;
+  font-size: 1.5em;
+  color: white;
+  font-weight: 700;
+  font-family: 'Baloo Da 2', sans-serif;
+}
+
+.center-container {
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#downButton {
+  position: absolute;
+  bottom: 5vh;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 1.3em;
+}
+
+.about {
+  z-index: -1;
+  height: 100vh;
+  width: 100vw;
+  background-image: url('https://wallup.net/wp-content/uploads/2017/03/29/477914-photography-Photoshop-simple_background-nature.jpg');
+  background-size: cover;
+}
+
+.about-container {
+  padding: 20px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.about h3 {
+  font-family: 'Baloo Da 2', sans-serif;
+  font-size: 2.5em;
+  line-height: 0.86;
+  color: black;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.raspberrypi {
+  width: 40%;
+}
+
+.red {
+  color: #C51A4A;
+}
+
+.big-button {
+  padding: 10px;
+  border-radius: 40px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  font-family: 'Lato', sans-serif;
+  transition: 0.5s;
+}
+
+a {
+  text-transform: uppercase;
+  color: black;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.big-button:hover {
+  transition: 0.5s;
+  color: #C51A4A;
+  border-color: #C51A4A;
+}
+
+a:hover {
+  color: #C51A4A;
+  transition: 0.5s;
+}
