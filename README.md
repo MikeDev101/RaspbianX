@@ -8,7 +8,9 @@ RaspbianX is designed for more advanced users or for those who want an aesthetic
 Raspbian X was made using a Raspberry Pi 4 2GB, so compatibility with older Pis isn't guranteed. This uses the Adapta GTK3 theme, and the Tela circle dark icon set. Both of these are not by me.
 
 __I forgot that PulseAudio is trash. Simply run these commands in the terminal to fix the audio problems:__
-> sudo apt remove pulseaudio && sudo apt autoremove && sudo reboot now
+```bash
+sudo apt remove pulseaudio && sudo apt autoremove && sudo reboot now
+```
 
 The default username is "ubuntu", and the default password (including root) is also "ubuntu". This disk image will require a 32gb sd card, since it's backed up to a whopping 20ish GB in size. I've compressed it into a zip file for convenience.
 
