@@ -8,7 +8,7 @@ RaspbianX is designed for more advanced users or for those who want an aesthetic
 
 Click on any of these links below to download a copy of RaspbianX. RaspbianX can be flashed to any 32 GB SD card, with any disk writing software. (I reccomend Rufus)
 
-- __[Build 03.21.2020 (Link is down, Rerelase TBD)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Fclipart-banana-face-19.png&f=1&nofb=1)__
+- __[Build 03.21.2020 (Link is down, Re-release TBD)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Fclipart-banana-face-19.png&f=1&nofb=1)__
 
 - __[Build 03.31.2020(April foolz, no actual download link here)](https://drive.google.com/file/d/1E1pRRYgbq2SjC13-hUcsCAWndttBrGbD/view?usp=drivesdk)__
 
