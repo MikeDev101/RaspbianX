@@ -8,9 +8,7 @@ RaspbianX is designed for more advanced users or for those who want an aesthetic
 
 Click on any of these links below to download a copy of RaspbianX. RaspbianX can be flashed to any 32 GB SD card, with any disk writing software. (I reccomend Rufus)
 
-- __[Build 03.21.2020 (Link is down, Re-release TBD)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Fclipart-banana-face-19.png&f=1&nofb=1)__
-
-- __[Build 03.31.2020(April foolz, no actual download link here)](https://drive.google.com/file/d/1E1pRRYgbq2SjC13-hUcsCAWndttBrGbD/view?usp=drivesdk)__
+- __[Build 03.21.2020 (Latest)](http://www.mediafire.com/file/zlkabyyt18xaoe4/raspbianx_march_21_2020_32gb.zip/file)__
 
 # Key notes
 Raspbian X was made using a Raspberry Pi 4 2GB, so compatibility with older Pis isn't guranteed. This uses the Adapta GTK3 theme, and the Tela circle dark icon set. Both of these are not by me.
