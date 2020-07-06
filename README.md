@@ -1,3 +1,6 @@
+# NOTICE:
+I have discontinued this project because I have recently became aware of a much more superior project under the same-ish name. I also don't have time to work on this project, not to mention my lack of experience. :/
+
 # RaspbianX
 This is a modified version of Raspbian Buster (Bare-minimal desktop version) for the Raspberry Pi using the Ubuntu MATE desktop environment with a fully custom theme and icon set.
 
